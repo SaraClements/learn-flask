@@ -1,2 +1,5 @@
 # remove pycache
 *.pyc
+
+#remove output file
+*.out
